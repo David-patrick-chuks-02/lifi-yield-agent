@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/agent-lily-operator-console",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feature/agent-lily-operator-console": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feature/agent-lily-operator-console",
+    "origin"
+  ]
+}
